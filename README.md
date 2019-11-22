@@ -1,2 +1,2 @@
 # letecode-C-
-C++
+C/C++
